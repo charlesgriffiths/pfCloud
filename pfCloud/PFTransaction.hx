@@ -15,10 +15,10 @@ public var responseReceivedTime:Float;
 public var response:Dynamic;
 public var responseStatus:Int;
 
-static var pfKey:String = "B7TP5M41OBUGKSDKQRNI8RAG6MST35QWBK54AR7CXXKMGQNUHU";
-public static var pfTitleID:String = "3C8F7";
+public static var pfKey:String = "";
+public static var pfTitleID:String = "";
 static var pfAPIEndpoint:String = "https://3c8f7.playfabapi.com/";
-static var pfPublisherID:String = "F6BE039364C4EB0F";
+public static var pfPublisherID:String = "";
 
 var args:Array<String>;
 var dir:String;
